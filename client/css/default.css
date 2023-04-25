@@ -1,0 +1,13 @@
+#game {
+max-width: 200px;
+}
+
+.boardCase {
+    display: inline-block;
+    border: 1px solid black;
+    min-height: 50px;
+    min-width: 50px;
+    margin: 5px;
+    text-align: center;
+    font-size: 40px;
+}
