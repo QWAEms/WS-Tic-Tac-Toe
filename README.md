@@ -2,7 +2,7 @@
 Tic tac toe with websocket
 
 ## DISCLAIMER
-The code is absolutely horrible but it made for testing web socket in javascript
+The code is absolutely horrible but is made for testing web socket in javascript
 
 ## Install
 Clone the repo and install with `npm install`
